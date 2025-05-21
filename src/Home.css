@@ -6,9 +6,15 @@ div{
     background-color: darkblue;
     flex-wrap: nowrap;
     overflow: auto;
+    justify-content: center;
+    align-items: center;
 }
 
 img {
     width: 100px;
     height: 80px;
+    margin: 20px;
+    padding: 10px;
+    background-color: antiquewhite
+    border-radius: 60%;
 }
