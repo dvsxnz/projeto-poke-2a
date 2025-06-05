@@ -11,13 +11,18 @@ const Menu =()=>{
                     </a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link active" href="/pokeflex">
+                    <a className="nav-link" href="/pokeflex">
                        PokeFlex
                     </a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link active" href="/pokegrid">
+                    <a className="nav-link" href="/pokegrid">
                        PokeGrid
+                    </a>
+                </li>
+                <li className="nav-item">
+                    <a className="nav-link" href="/viacep">
+                       ViaCep
                     </a>
                 </li>
             </ul>
