@@ -12,6 +12,7 @@ const App = () => {
       <Route path="home" element={<Home/>} />
       <Route path="pokeflex" element={<PokeFlex/>} />
       <Route path="pokegrid" element={<PokeGrid/>} />
+      
     </Routes>
   )
 }
